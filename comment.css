@@ -1,0 +1,27 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+form, #comments {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+#comment-text {
+
+  height: 100px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+#comments {
+  margin-top: 10px;
+}
+
+.comment {
+  white-space: pre-wrap;
+}
